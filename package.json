@@ -1,0 +1,26 @@
+{
+  "name": "signia",
+  "version": "1.0.0",
+  "description": "Plataforma inteligente para traducir Lenguaje de Señas Mexicano (LSM) a voz en tiempo real y enseñar LSM básico.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseAntonio7392/Signia.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoseAntonio7392/Signia/issues"
+  },
+  "homepage": "https://github.com/JoseAntonio7392/Signia#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
